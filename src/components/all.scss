@@ -1,14 +1,23 @@
 @charset "utf-8";
 @import '~bulma';
 
-//- Full Page Height
-#___gatsby {
-  > div {
-    min-height: 100vh;
+.curved-bg {
+  .container {
     display: flex;
+    align-items: center;
+    justify-content: center;
     flex-direction: column;
+    height: 600px;
   }
-  .site-content {
-    flex: 1;
+  background: #fff url('../images/svg-curves.svg') center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white !important;
+  @include until($tablet) {
+    background-size: 1000px auto;
+    .container {
+      height: 400px;
+    }
   }
 }

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="255px" viewBox="0 0 500 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>svg-curves</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -191.000000)" fill-rule="nonzero">
+            <g id="svg-curves" transform="translate(0.000000, 191.000000)">
+                <path d="M0,75.796875 C63.390625,81.2604167 146.723958,69.2695313 250,39.8242188 C353.276042,10.3789062 436.609375,-2.65101785 500,0.734446436 L500,212.79337 C408.455729,162.925915 325.122396,154.260417 250,186.796875 C174.877604,219.333333 91.5442708,219.333333 0,186.796875 L0,75.796875 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                <path d="M2.84217094e-14,8.984375 C36.8489583,38.3125 106.502604,45.7083333 208.960938,31.171875 C311.419271,16.6354167 408.432292,19.5507812 500,39.9179687 L500,255.011719 C382.075521,198.248698 294.138021,169.867188 236.1875,169.867188 C178.236979,169.867188 99.5078125,175.510417 2.84217094e-14,186.796875 L2.84217094e-14,8.984375 Z" id="Path-Copy" fill="url(#linearGradient-2)" opacity="0.521623884"></path>
+            </g>
+        </g>
+    </g>
+</svg>
